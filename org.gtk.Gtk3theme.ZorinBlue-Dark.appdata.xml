@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="runtime">
+  <id>org.gtk.Gtk3theme.ZorinBlue-Dark</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>ZorinBlue-Dark</name>
+  <summary>ZorinBlue-Dark</summary>
+  <description>
+    <p>The dark desktop theme with blue highlights for Zorin OS</p>
+  </description>
+  <url type="homepage">https://github.com/zorinos/zorin-desktop-themes</url>
+</component>
